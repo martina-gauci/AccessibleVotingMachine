@@ -1,0 +1,20 @@
+li {
+  font-size: 18pt;
+  list-style: none;
+  margin-top: 3%;
+  text-decoration: underline;
+}
+
+.video {
+  width: 90vw;
+  margin: 0 5vw;
+}
+
+.control-bar {
+  height: 8vh !important;
+  /* font-size: 12pt !important; */
+}
+
+.video-react-control {
+  font-size: 18pt !important;
+}

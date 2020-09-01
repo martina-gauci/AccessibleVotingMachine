@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.page-title {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  display: inline-flex;
+  border-bottom: 6px solid black;
+  padding-bottom: 1%;
+  height: 6vh;
+}
+
+.candidates-container {
+  margin-top: 7vh;
+}
+
+.party-box {
+  border: 1vw solid;
+  margin: 2vh 0;
+}
+
+.party-title {
+  text-align: center;
+  margin: 0;
+  font-size: 18pt;
+}
+
+.no-candidate-message {
+  text-align: center;
+  background-color: white;
+  padding: 1%;
+  border: 1px solid black;
+}
+
+.party-colour-1 {
+  border-color: #d5c900;
+  background-color: #d5c900;
+}
+
+.party-colour-2 {
+  border-color: #f401f4;
+  background-color: #f401f4;
+}
+.party-colour-3 {
+  border-color: #ff8d33;
+  background-color: #ff8d33;
+}
+
+.party-colour-4 {
+  border-color: #03a803;
+  background-color: #03a803;
+}
+
+.no-margin {
+  margin-top: 1%;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

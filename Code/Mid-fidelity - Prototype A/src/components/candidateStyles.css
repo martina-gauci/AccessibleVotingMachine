@@ -1,0 +1,44 @@
+.candidate-box {
+  border: 1px solid black;
+  /* padding-left: 2vh; UNCOMMENT FOR TABLET*/
+  width: 100%;
+  font: inherit;
+  background-color: white;
+  text-align: left;
+}
+
+.chosen {
+  background-color: black;
+  color: white;
+}
+
+.candidate-name {
+  margin: 2% 0;
+}
+
+.candidate-details {
+  padding-left: 1%;
+  display: inline-block;
+  font-size: 18pt;
+}
+
+.candidate-img {
+  float: right;
+  height: 8vh;
+}
+
+.review-candidate-img {
+  padding-top: 5%;
+  float: right;
+  height: 8vh;
+}
+
+.grid {
+  display: grid;
+}
+
+.review-candidate-box {
+  width: 71%;
+  display: inline-block;
+  margin-bottom: 2%;
+}
