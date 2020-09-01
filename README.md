@@ -14,7 +14,9 @@ Using the high-fidelity prototype, the testers were able to cast the intended vo
 3.	Once the previous command has finished, run npm start.
 a.	This will launch the web application in your browser.
 4.	For ‘Mid-fidelity - Prototype A’, ‘Mid-fidelity - Prototype B’ and ‘High-fidelity – Tablet’, please view the interface through Chrome's Developer Tools and display the interface on an emulated iPad.
+
 a.	The reason for the prototypes not being responsive is that these prototypes were designed for a designated voting machine which would have a standard size at all polling stations.
+
 b.	Otherwise, view the prototype on your tablet device by using the IP and port number displayed in Visual Code’s terminal. 
  
 Important: If the candidates’ names are not being displayed, click on Application (in the red box) in Chrome’s Developer Tools and delete all the variables (in the purple box).  This is because the candidates are being stored in local storage which will not be deleted unless the vote is cast. 
