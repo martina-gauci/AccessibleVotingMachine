@@ -21,8 +21,12 @@ Important: If the candidates’ names are not being displayed, click on Applicat
  
 
 Otherwise, you can simply view the interfaces by visiting the following links:
+
 •	https://prototype-a.netlify.app/ for ‘Mid-fidelity – Prototype A’
+
 •	https://prototype-b.netlify.app/ for ‘Mid-fidelity – Prototype B’
+
 •	https://accessible-voting.netlify.app/ for ‘High-fidelity – Tablet’
+
 •	https://accessible-voting-2.netlify.app/ for ‘High-fidelity – Desktop’
 
